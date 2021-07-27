@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+.padd ul li a{
+    padding-left: 10px;
+}
+
+.text1 h4{
+color: rgb(82, 80, 80);
+margin-top: 50px;
+}
+
+.center1 ul{
+  padding-left: 100px;
+  margin-top: 30px;
+}
